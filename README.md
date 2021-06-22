@@ -6,7 +6,7 @@ Familiar with:
 - Java
 - Python
 - HTML
-- CSS/ SASS
+- CSS / SASS
 - Adobe XD
 - Microsoft Office
 
