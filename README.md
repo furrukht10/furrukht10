@@ -1,6 +1,16 @@
 ### Hi there 👋 I'm Furrukh Tanveer.
 
-##A first year student studying Computer Science at Ryerson University. 
+A first year student studying Computer Science at Ryerson University. 
+
+Familiar with:
+
+➔ Java
+➔ Python
+➔ HTML
+➔ CSS/ SASS
+➔ Adobe XD
+➔ Microsoft Office
+
 
 <!--
 **furrukht10/furrukht10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
