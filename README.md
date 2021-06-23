@@ -4,7 +4,6 @@ A first year student studying Computer Science at Ryerson University.
 
 Familiar with:
 - JavaScript
-<img src="https://img.icons8.com/wired/64/000000/java-coffee-cup-logo.png"/>
 - Java
 - Python
 - HTML
