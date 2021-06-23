@@ -4,7 +4,7 @@ A first year student studying Computer Science at Ryerson University.
 
 Familiar with:
 - JavaScript
-<a href="https://icons8.com/icon/48734/java">Java icon by Icons8</a>
+<img src="https://img.icons8.com/wired/64/000000/java-coffee-cup-logo.png"/>
 - Java
 - Python
 - HTML
