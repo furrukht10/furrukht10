@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Furrukh Tanveer.
 
-A first year student studying Computer Science at Ryerson University. 
+A second year student studying Computer Science at Ryerson University. 
 
 Familiar with:
 - JavaScript
