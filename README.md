@@ -3,12 +3,11 @@
 A first year student studying Computer Science at Ryerson University. 
 
 Familiar with:
+- JavaScript
 - Java
 - Python
 - HTML
 - CSS / SASS
-- Adobe XD
-- Microsoft Office
 
 
 <!--
