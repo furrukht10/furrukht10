@@ -7,7 +7,7 @@ Familiar with:
 - Java
 - Python
 - HTML
-- CSS / SASS
+- CSS / SCSS
 
 You can contact me through my website at https://furrukht10.github.io
 
