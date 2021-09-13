@@ -9,7 +9,7 @@ Familiar with:
 - HTML
 - CSS / SCSS
 
-You can contact me through my website at https://furrukht10.github.io
+You can contact me through my website at https://furrukhtanveer.tech
 
 
 <!--
