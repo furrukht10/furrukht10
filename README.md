@@ -1,13 +1,14 @@
-### Hi there 👋 I'm Furrukh Tanveer.
+### Hi there 👋
+I'm Furrukh Tanveer.
 
 A second year student studying Computer Science at Ryerson University. 
 
 Familiar with:
-- JavaScript
+- JavaScript, Node.js, Express.js
 - Java
 - Python
-- HTML
-- CSS / SCSS
+- C
+- HTML / CSS / SCSS
 
 You can contact me through my website at https://furrukhtanveer.tech
 
