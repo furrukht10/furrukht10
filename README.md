@@ -6,11 +6,13 @@ A second year student studying Computer Science at Ryerson University.
 Familiar with:
 - JavaScript, Node.js, Express.js
 - Java
+- Spring Boot
 - Python
 - C
+- SQL
 - HTML / CSS / SCSS
 
-You can contact me through my website at https://furrukhtanveer.tech
+You can contact me through my website at https://furrukhtanveer.me
 
 
 <!--
