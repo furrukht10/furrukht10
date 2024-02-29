@@ -12,7 +12,6 @@ Familiar with:
 - SQL
 - HTML / CSS / SCSS
 
-You can contact me through my website at http://furrukhtanveer.net
 
 
 <!--
