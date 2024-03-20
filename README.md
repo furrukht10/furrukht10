@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Fourth-Year Computer Science Student at <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a> 🎓<br>
+    Fourth-Year Computer Science Student at Toronto Metropolitan University 🎓<br>
     Passionate Software Engineer 🚀
   </em>
 </p>
