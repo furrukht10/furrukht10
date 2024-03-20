@@ -1,17 +1,13 @@
 ### Hi there 👋
 I'm Furrukh Tanveer.
 
-A second year student studying Computer Science at Ryerson University. 
+I’m a fourth-year Computer Science student at Toronto Metropolitan University with a passion for Software Engineering and developing technological tools to innovate the world.
 
 Familiar with:
-- JavaScript, Node.js, Express.js
-- Java
-- Spring Boot
-- Python
-- C
-- SQL
-- HTML / CSS / SCSS
-
+Languages: Java, Python, JavaScript, SQL, C, C++, C#, HTML, CSS, Bash, GoLang, PHP, TypeScript
+Frameworks: Spring Boot, .NET, Node.js, Express.js, React.js, Angular.js, Vue.js, Flask
+Tools: Git, Jenkins, Openshift, Powershell, Batch, Docker, Selenium, Datadog, GraphQL, Confluence, JIRA
+Technologies: Kubernetes, OracleDB, MongoDB, MySQL, PostgreSQL, GCP, AWS, Azure
 
 
 <!--
