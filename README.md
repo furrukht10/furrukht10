@@ -1,26 +1,44 @@
-### Hi there 👋
-I'm Furrukh Tanveer.
+<h1 align="center">Hi there, I'm Furrukh Tanveer 👋</h1>
 
-I’m a fourth-year Computer Science student at Toronto Metropolitan University with a passion for Software Engineering and developing technological tools to innovate the world.
+<p align="center">
+  <em>
+    Fourth-Year Computer Science Student at <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a> 🎓<br>
+    Passionate Software Engineer 🚀
+  </em>
+</p>
 
-Familiar with:
-Languages: Java, Python, JavaScript, SQL, C, C++, C#, HTML, CSS, Bash, GoLang, PHP, TypeScript
-Frameworks: Spring Boot, .NET, Node.js, Express.js, React.js, Angular.js, Vue.js, Flask
-Tools: Git, Jenkins, Openshift, Powershell, Batch, Docker, Selenium, Datadog, GraphQL, Confluence, JIRA
-Technologies: Kubernetes, OracleDB, MongoDB, MySQL, PostgreSQL, GCP, AWS, Azure
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://github.com/">GitHub</a>
+</p>
+
+---
+
+I am a dedicated Computer Science student with a strong interest in Software Engineering, constantly seeking to innovate and create impactful technological solutions. My academic and project experiences have endowed me with a solid foundation in various programming languages and frameworks, along with a deep understanding of modern software development practices and tools.
 
 
-<!--
-**furrukht10/furrukht10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Technical Proficiencies:
 
-Here are some ideas to get you started:
+#### Languages:
+`Java` `Python` `JavaScript` `SQL` `C` `C++` `C#` `HTML` `CSS` `Bash` `GoLang` `PHP` `TypeScript`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frameworks:
+`Spring Boot` `.NET` `Node.js` `Express.js` `React.js` `Angular.js` `Vue.js` `Flask`
+
+#### Tools:
+`Git` `Jenkins` `Openshift` `Powershell` `Batch` `Docker` `Selenium` `Datadog` `GraphQL` `Confluence` `JIRA`
+
+#### Technologies:
+`Kubernetes` `OracleDB` `MongoDB` `MySQL` `PostgreSQL` `GCP` `AWS` `Azure`
+
+### 📈 GitHub Stats:
+
+![Furrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to reach me:
+
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/furrukhtanveer)
+- Send me an [email](mailto:furrukht10@gmail.com) for collaborations or any inquiries
+
