@@ -31,9 +31,7 @@ I am a dedicated Computer Science student with a strong interest in Software Eng
 #### Technologies:
 `Kubernetes` `OracleDB` `MongoDB` `MySQL` `PostgreSQL` `GCP` `AWS` `Azure`
 
-### 📈 GitHub Stats:
 
-![Furrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
